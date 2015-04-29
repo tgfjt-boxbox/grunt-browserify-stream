@@ -1,0 +1,19 @@
+{
+  "name": "grunt-stream-browserify",
+  "version": "1.0.0",
+  "scripts": {
+    "grunt": "grunt"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.template": "^3.5.0"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "grunt": "^0.4.5",
+    "time-grunt": "^1.1.1",
+    "vinyl-fs": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
